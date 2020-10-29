@@ -1014,7 +1014,7 @@
 						</div>
 
 						<h3 class="stat-count">
-							1465
+							920
 						</h3>
 
 						<h5 class="stat-title">
