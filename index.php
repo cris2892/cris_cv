@@ -52,11 +52,11 @@
 		   	<nav id="main-nav-wrap">
 					<ul class="main-navigation">
 						<li class="current"><a class="smoothscroll"  href="#intro" title="">Home</a></li>
-						<li><a class="smoothscroll"  href="#about" title="">Sobre Mi</a></li>
-						<li><a class="smoothscroll"  href="#resume" title="">Curriculum</a></li>
+						<li><a class="smoothscroll"  href="#about" title="">About Me</a></li>
+						<li><a class="smoothscroll"  href="#resume" title="">Resume</a></li>
 						<li><a class="smoothscroll"  href="#portfolio" title="">Portfolio</a></li>
-						<li><a class="smoothscroll"  href="#services" title="">Servicios</a></li>					
-						<li><a class="smoothscroll"  href="#contact" title="">Contacto</a></li>	
+						<li><a class="smoothscroll"  href="#services" title="">Services</a></li>					
+						<li><a class="smoothscroll"  href="#contact" title="">Contac</a></li>	
 						<!-- <li><a href="styles.html" title="">Style Demo</a></li>		 -->		
 					</ul>
 				</nav>    		
