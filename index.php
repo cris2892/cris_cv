@@ -157,7 +157,7 @@
    				</li>
    				<li>
    					<strong>Email:</strong>
-   					<span><a href="mailto:cristobal2892@gmail.com?subject=Consulta%20de%20informacion">Cristobal2892@gmail.com</a></span>
+   					<span><a href="mailto:cristobalq28@gmail.com?subject=Consulta%20de%20informacion">Cristobalq28@gmail.com</a></span>
    				</li>
 
    			</ul> <!-- /info-list -->
