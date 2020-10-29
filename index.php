@@ -1104,9 +1104,9 @@
    			<h5>Where to find me</h5>
 
    			<p>
-            Pacheco 2709 Villa Urquiza<br>
+            Villa Urquiza<br>
             CABA<br>
-            1431 Argentina
+            Argentina
             </p>
 
    		</div>
@@ -1120,7 +1120,7 @@
    			<h5>Email Me At</h5>
 
    			<p><a class="link_contacto" href="mailto:antarescreations75@gmail.com?subject=Consulta%20de%20informacion">antarescreations75@gmail.com</a><br>
-				<a class="link_contacto" href="mailto:cristobal2892@gmail.com?subject=Consulta%20de%20informacion">Cristobal2892@gmail.com</a>		     
+				<a class="link_contacto" href="mailto:cristobalq28@gmail.com?subject=Consulta%20de%20informacion">Cristobalq28@gmail.com</a>		     
 			   </p>
 
    		</div>
