@@ -215,8 +215,8 @@
    	<div class="row button-section">
    		<div class="col-twelve">
    			<!-- <a href="#contact" title="Hire Me" class="button stroke smoothscroll">Hire Me</a> -->
-			<a href="Documents/Cristóbal Fletcher-enCV-oct2020.pdf" target="_blank" title="Download CV" class="button button-primary">Download CV (Spanish)</a>
-   			<a href="Documents/Cristóbal Fletcher-enCV-oct2020.pdf" target="_blank" title="Download CV" class="button button-primary">Download CV (Spanish)</a>
+			<a href="Documents/Cristobal Fletcher CV English.pdf" target="_blank" title="Download CV" class="button button-primary">Download CV (English)</a>
+   			<a href="Documents/Cristobal Fletcher CV Espanol.pdf" target="_blank" title="Download CV" class="button button-primary">Download CV (Spanish)</a>
    		</div>   		
    	</div>
 
