@@ -144,7 +144,7 @@
 				</li>
 
 				<li>
-					<strong>Recidence:</strong>
+					<strong>Residence:</strong>
 					<span>Buenos Aires Argentina</span>
 				</li>
    				<li>
