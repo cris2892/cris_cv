@@ -120,7 +120,7 @@
 
    				<img src="images/Foto CV.jpg" alt="Profile Picture">
 
-   				<p class="lead">I am an Accounting Professional and Software Developer, with a strong digital technologies orientation; I am a Python, Android and Full Stack Developer, and I have experience with Cloud Computing, Amazon Web Services, and Microsoft. I have the ability to be a nimble learner; being able to adapt, learn quickly in new situations and grow. I also have the ability for solving problems and simplifying Information Technology processes. My background also includes expertise in Sales, and in Logistics and Supply Chain Management. I am business proficient in English, and fluent in Spanish. </p>
+   				<p class="lead">I am an Accounting Professional and Software Developer, with a strong digital technologies orientation; I am a Python, Android and Full Stack Developer, and I have experience with Cloud Computing, Amazon Web Services, and Microsoft. I have the ability to be a nimble learner; being able to adapt, learn quickly in new situations and grow. I also have the ability for solving problems and simplifying Information Technology processes. My background also includes expertise in Sales, and in Logistics and Supply Chain Management. I'm a native spanish speaker and have a C1  level in english. </p>
    			</div>   			
 
    		</div>   		
@@ -171,38 +171,52 @@
 			   <!-- <p>Lorem ipsum Qui veniam ut consequat ex ullamco nulla in non ut esse in magna sint minim officia consectetur nisi commodo ea magna pariatur nisi cillum.</p> -->
 
 				<ul class="skill-bars">
-				   <li>
+
+				  
+				<li>
+					<div class="progress percent75"><span>75%</span></div>
+					<strong>Cloud Computing</strong>   	
+				</li>
+
+				<li>
 				   	<div class="progress percent90"><span>90%</span></div>
 				   	<strong>HTML5</strong>
-				   </li>
-				   <li>
+				</li>
+
+				<li>
 				   	<div class="progress percent90"><span>90%</span></div>
 				   	<strong>CSS3</strong>
-				   </li>
-				   <li>
+				</li>
+
+				<li>
 				   	<div class="progress percent60"><span>60%</span></div>
 				   	<strong>JS</strong>
-				   </li>
-				   <li>
+				</li>
+
+				<li>
 				   	<div class="progress percent70"><span>70%</span></div>
 				   	<strong>Wordpress</strong>
-				   </li>
-				   <li>
+				</li>
+
+				<li>
+					<div class="progress percent95"><span>95%</span></div>
+					<strong>Microsoft Office (Excel)</strong>   	
+				</li>
+
+				<li>
 					<div class="progress percent85"><span>85%</span></div>
 					<strong>Blender 3D</strong>   
-				   </li>
-				   <li>
+				</li>
+
+				<li>
 				   	<div class="progress percent75"><span>75%</span></div>
 					   <strong>Illustrator</strong>   
-				   </li>
-				   <li>
+				</li>
+
+				<li>
 					<div class="progress percent70"><span>70%</span></div>
 					<strong>Photoshop</strong>   
-				   </li>
-				   <li>
-					<div class="progress percent75"><span>75%</span></div>
-					<strong>Premiere Pro</strong>   
-				   </li>
+				</li>
 				   
 				   
       
