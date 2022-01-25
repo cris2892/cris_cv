@@ -174,7 +174,7 @@
 
 				  
 				<li>
-					
+					<div class="progress percent75"><span>75%</span></div>
 					<strong>Cloud Computing</strong>   	
 				</li>
 
