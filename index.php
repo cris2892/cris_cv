@@ -422,9 +422,9 @@
 				<br>
 				<br>
 				
-				<span ><a href="https://drive.google.com/file/d/1tt3pvlq3dsPnNFPxZX6ry6AVdTZhm0f9/view" target="_blank"><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQH-FyRxcSBDaQ/company-logo_100_100/0?e=1611792000&v=beta&t=30BfEa7YxRuypT9dBliN9eFsQ93rbq69qOvRVp296zE" alt="Make your own GEO APP"></a></span>
+				<span ><a href="https://drive.google.com/file/d/1tt3pvlq3dsPnNFPxZX6ry6AVdTZhm0f9/view" target="_blank"><img class= "logo1" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ArcGIS_logo.png/250px-ArcGIS_logo.png" alt="Make your own GEO APP"></a></span>
 
-				<span ><a href="https://www.udemy.com/certificate/UC-PUHISZZS/" target="_blank"><img src="https://media-exp1.licdn.com/dms/image/C560BAQH0VNXBrdkklA/company-logo_100_100/0?e=1611792000&v=beta&t=Dn44Plfpo6gT3I3nZgy8gfafscqGyJVsxVPs_djeYI8" alt="zbrush"></a></span>
+				<span ><a href="https://www.udemy.com/certificate/UC-PUHISZZS/" target="_blank"><img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Udemy_logo.svg/245px-Udemy_logo.svg.png" alt="zbrush"></a></span>
 				
 			
 				
@@ -478,7 +478,7 @@
 
 	         	<div class="bgrid folio-item">
 	               <div class="item-wrap">
-	               	<img src="images/portfolio/Food Tavera.png" alt="Tavera Food">
+	               	<img src="images/portfolio/Diseños Phot/Food Tavera.png" alt="Tavera Food">
 	                  <a href="#modal-01" class="overlay">	                  	           
 	                     <div class="folio-item-table">
 	                     	<div class="folio-item-cell">
@@ -494,7 +494,7 @@
 
 	        		<div class="bgrid folio-item">
 	               <div class="item-wrap">
-	               	<img src="images/portfolio/Comercial.jpg" alt="Phone">
+	               	<img src="images/portfolio/3d/Comercial.jpg" alt="Phone">
 	               	<a href="#modal-02" class="overlay">              		                  
 	                     <div class="folio-item-table">
 	                     	<div class="folio-item-cell">
@@ -510,7 +510,7 @@
 
 	            <div class="bgrid folio-item">
 	               <div class="item-wrap">
-	               	<img src="images/portfolio/Targeta Frontal.png"alt="Play Station">
+	               	<img src="images/portfolio/Tarjeta Marco/Targeta Frontal.png"alt="Play Station">
 	                  <a href="#modal-03" class="overlay">             		                  
 	                     <div class="folio-item-table">
 	                     	<div class="folio-item-cell">
@@ -526,7 +526,7 @@
 
 	            <div class="bgrid folio-item">
 	               <div class="item-wrap">
-	               	<img src="images/portfolio/Apple.jpg" alt="Apple">
+	               	<img src="images/portfolio/Apples/Apple.jpg" alt="Apple">
 	                  <a href="#modal-04" class="overlay">                  	                 
 	                     <div class="folio-item-table">
 	                     	<div class="folio-item-cell">
@@ -542,7 +542,7 @@
 
 	        		<div class="bgrid folio-item">
 	               <div class="item-wrap">
-	               	<img src="images/portfolio/Cloud Kingdom.png" alt="A image of a girl looking at a castle">
+	               	<img src="images/portfolio/Diseños Phot/Cloud Kingdom.png" alt="A image of a girl looking at a castle">
 	                  <a href="#modal-05" class="overlay">             		                  
 	                     <div class="folio-item-table">
 	                     	<div class="folio-item-cell">
@@ -558,7 +558,7 @@
 
 	            <div class="bgrid folio-item">
 	               <div class="item-wrap">
-	               	<img src="images/portfolio/Book of life.png" alt="Book with a girl and a whale">
+	               	<img src="images/portfolio/Diseños Phot/Book of life.png" alt="Book with a girl and a whale">
 	                  <a href="#modal-06" class="overlay">
 	                     <div class="folio-item-table">
 	                     	<div class="folio-item-cell">
@@ -576,7 +576,7 @@
 					
 					<div class="bgrid folio-item">
 						<div class="item-wrap">
-							<img src="images/portfolio/fletcherart.png" alt="the web page of fletcher art">
+							<img src="images/portfolio/Paginas Webs/fletcherart.png" alt="the web page of fletcher art">
 						   <a href="#modal-07" class="overlay">
 							  <div class="folio-item-table">
 								  <div class="folio-item-cell">
@@ -605,6 +605,38 @@
 							   </a>
 							</div>
 							 </div> <!-- /folio-item -->   
+
+						<div class="bgrid folio-item">
+							<div class="item-wrap">
+								<img src="images/portfolio/3d/Play Station.jpg" alt="the web page of fletcher art">
+							   <a href="#modal-09" class="overlay">
+								  <div class="folio-item-table">
+									  <div class="folio-item-cell">
+										  <h3 class="folio-title">3D PX1</h3>	     					    
+												  <span class="folio-types">
+													3D Modelling
+												</span>		     		
+											 </div>	                      	
+								  </div>                    
+							   </a>
+							</div>
+							 </div> <!-- /folio-item --> 
+
+							 <div class="bgrid folio-item">
+							<div class="item-wrap">
+								<img src="images/portfolio/3d/4 copa.png" alt="the web page of fletcher art">
+							   <a href="#modal-10" class="overlay">
+								  <div class="folio-item-table">
+									  <div class="folio-item-cell">
+										  <h3 class="folio-title">3D Moderm Kitchen</h3>	     					    
+												  <span class="folio-types">
+												  3D Modelling & Archviz 
+												</span>		     		
+											 </div>	                      	
+								  </div>                    
+							   </a>
+							</div>
+							 </div> <!-- /folio-item --> 
 	
 
 	            <!-- modal popups - begin
@@ -612,7 +644,7 @@
 	            <div id="modal-01" class="popup-modal slider mfp-hide">	
 
 				     	<div class="media">
-				     		<img src="images/portfolio/Food Tavera.png" alt="Food Tavera" />
+				     		<img src="images/portfolio/Diseños Phot/Food Tavera.png" alt="Food Tavera" />
 				     	</div>      	
 
 					   <div class="description-box">
@@ -652,7 +684,7 @@
 				   <div id="modal-03" class="popup-modal slider mfp-hide">	
 
 				     	<div class="media">
-				     		<img src="images/portfolio/Tarjeta Atras.png" alt="A presentation Card for a Bartender profetional" />
+				     		<img src="images/portfolio/Tarjeta Marco/Tarjeta Atras.png" alt="A presentation Card for a Bartender profetional" />
 				     	</div>      	
 
 					   <div class="description-box">
@@ -672,7 +704,7 @@
 				   <div id="modal-04" class="popup-modal slider mfp-hide">	
 
 				     	<div class="media">
-				     		<img src="images/portfolio/Apple.jpg" alt="Apple" />
+				     		<img src="images/portfolio/Apples/Apple.jpg" alt="Apple" />
 				     	</div>      	
 
 					   <div class="description-box">
@@ -692,7 +724,7 @@
 				   <div id="modal-05" class="popup-modal slider mfp-hide">	
 
 				     	<div class="media">
-				     		<img src="images/portfolio/Cloud Kingdom.png" alt="" />
+				     		<img src="images/portfolio/Diseños Phot/Cloud Kingdom.png" alt="" />
 				     	</div>      	
 
 					   <div class="description-box">
@@ -712,7 +744,7 @@
 				   <div id="modal-06" class="popup-modal slider mfp-hide">	
 
 				     	<div class="media">
-				     		<img src="images/portfolio/Book of life.png" alt="" />
+				     		<img src="images/portfolio/Diseños Phot/Book of life.png" alt="" />
 				     	</div>      	
 
 					   <div class="description-box">
@@ -734,7 +766,7 @@
 				   <div id="modal-07" class="popup-modal slider mfp-hide">	
 
 					<div class="media">
-						<img src="images/portfolio/fletcherart2.png" alt="" />
+						<img src="images/portfolio/Paginas Webs/fletcherart2.png" alt="" />
 					</div>      	
 
 				  <div class="description-box">
@@ -770,6 +802,46 @@
 			</div>		      
 
 		  </div> <!-- /modal-08 -->
+
+		   <div id="modal-09" class="popup-modal slider mfp-hide">	
+
+				<div class="media">
+					<img src="images/portfolio/modals/cristobal-fletcher-play-atras.jpg" alt="" />
+				</div>      	
+
+			  <div class="description-box">
+				 <h4>3D Model of the PX1</h4>		      
+				 <p>This model of the first ever Play ststion System was made originaly in Blender 2.8 thois console was a very important part of my life this was a tribute to that very importat console</p>
+
+				 <div class="categories">3D Modelling</div>			               
+			  </div>
+
+			<div class="link-box">
+			   <a href="https://www.artstation.com/artwork/lV2rdG" target="_blank">Details</a>
+				 <a href="#" class="popup-modal-dismiss">Close</a>
+			</div>		      
+
+		  </div> <!-- /modal-09 -->
+
+		   <div id="modal-10" class="popup-modal slider mfp-hide">	
+
+				<div class="media">
+					<img src="images/portfolio/3D/4 afuera.png" alt="" />
+				</div>      	
+
+			  <div class="description-box">
+				 <h4>3D Modern kitchen</h4>		      
+				 <p>A personal Project I made this with trying to imagine the type of kitchen I´ll like in my future home Everything in this scene was basically made by scratch by myself without using any assets from the internet</p>
+
+				 <div class="categories">3D Modelling & Archviz</div>			               
+			  </div>
+
+			<div class="link-box">
+			   <a href="https://www.artstation.com/artwork/14EJBe" target="_blank">Details</a>
+				 <a href="#" class="popup-modal-dismiss">Close</a>
+			</div>		      
+
+		  </div> <!-- /modal-10 -->
 
 			  
 
@@ -1140,20 +1212,7 @@
 
    		</div>
 
-   		<!-- <div class="col-four tab-full">
-
-   			<div class="icon">
-				<i class="fas fa-phone"></i>
-   			</div>
-
-   			<h5>Call Me At</h5>
-
-   			<p>Phone: (+63) 555 1212<br>
-			   	Mobile: (+63) 555 0100<br>
-			     	Fax: (+63) 555 0101
-			   </p>
-
-   		</div> -->
+   	
    		
    	</div> <!-- /contact-info -->
 		
